@@ -1,14 +1,4 @@
-Agora abra requirements.txt e coloque:
 
 flask
-Instale a dependência:
 
-pip install flask
-Execute a aplicação:
 
-python app.py
-Abra no navegador:
-
-http://127.0.0.1:5000/
-
-Se aparecer JSON → está funcionando.
