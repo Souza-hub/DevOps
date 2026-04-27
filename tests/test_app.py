@@ -11,3 +11,4 @@ def test_status():
 
     assert response.status_code == 200
     assert response.json["status"] == "error"
+
